@@ -4,7 +4,7 @@
 Since Bootstrap4, theme based on Bootstrap inject code in core of Bootstrap directly.
 So theme not need Bootstrap again.
 
-AdminLte 3 developed based on Bootstrap 4, so if we use AdminLte3, we also not need Bootstrap4 again.
+AdminLte 3 developed based on Bootstrap 4, so when we use AdminLte3, we also not need Bootstrap4 again.
 Only use AdminLte3.
 
 <!--
