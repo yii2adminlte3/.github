@@ -1,4 +1,11 @@
-## Hi there 👋
+## Yii2 AdminLte3
+### Deep integration between Yii2 and AdminLte3
+
+Since Bootstrap4, theme based on Bootstrap inject code in core of Bootstrap directly.
+So theme not need Bootstrap again.
+
+AdminLte 3 developed based on Bootstrap 4, so if we use AdminLte3, we also not need Bootstrap4 again.
+Only use AdminLte3.
 
 <!--
 
